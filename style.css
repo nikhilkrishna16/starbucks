@@ -17,7 +17,7 @@ footer ul{
 }
 
 footer .col-md-2,.col-12{
- margin-right: 2rem;
+ 
  margin-left: 2rem;
  padding: 1rem;
 
@@ -32,4 +32,5 @@ footer .col-md-2 li,.col-12 li{
  .accordion-button:not(.collapsed) {
       background-color: #f8f9fa;
       color: #000;
+
     }
